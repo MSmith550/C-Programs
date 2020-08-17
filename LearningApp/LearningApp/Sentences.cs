@@ -16,7 +16,7 @@ namespace LearningApp
         int indexNumber;
         string randomSentence;
         string[] sentenceList;
-        string sentencePath = @"E:\VSPrograms\LearningApp\LearningApp\data\InformationFiles\Sentence.data.txt";
+        string sentencePath = System.IO.Path.GetFullPath(@"data\InformationFiles\Sentence.data.txt");
 
         public Sentences()
         {

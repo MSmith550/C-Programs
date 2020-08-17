@@ -16,8 +16,9 @@ namespace LearningApp
         int indexNumber;
         string randomHeartWord, randomShortVowel;
         string[] heartList, shortVowelList;
-        string heartWordPath = @"E:\VSPrograms\LearningApp\LearningApp\data\InformationFiles\WordList.data.txt";
-        string shortVowelPath = @"E:\VSPrograms\LearningApp\LearningApp\data\InformationFiles\ShortVowel.data.txt";
+        string heartWordPath = System.IO.Path.GetFullPath(@"data\InformationFiles\WordList.data.txt");
+        string shortVowelPath = System.IO.Path.GetFullPath(@"data\InformationFiles\ShortVowel.data.txt");
+
 
         public HeartWords()
         {

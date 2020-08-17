@@ -16,8 +16,8 @@ namespace LearningApp
         int indexNumber;
         string[] letterList, blendList;
         string randomLetter, randomBlend;
-        string letterPath = @"E:\VSPrograms\LearningApp\LearningApp\data\InformationFiles\Sounds.data.txt";
-        string blendPath = @"E:\VSPrograms\LearningApp\LearningApp\data\InformationFiles\BlendSounds.data.txt";
+        string letterPath = System.IO.Path.GetFullPath(@"data\InformationFiles\Sounds.data.txt");
+        string blendPath = System.IO.Path.GetFullPath(@"data\InformationFiles\BlendSounds.data.txt");
 
         public Sounds()
         {
