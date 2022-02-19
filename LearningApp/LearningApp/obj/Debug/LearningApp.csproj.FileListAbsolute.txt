@@ -1,7 +1,8 @@
 E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.exe.config
+E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.exe.manifest
+E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.application
 E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.exe
 E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.pdb
-E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.csprojAssemblyReference.cache
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.HeartWords.resources
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.MainMenu.resources
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.Math.resources
@@ -10,9 +11,8 @@ E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.Properties.Resources
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.Sentences.resources
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.Sounds.resources
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.csproj.GenerateResource.cache
-E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.exe
-E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.pdb
-E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.exe.manifest
-E:\VSPrograms\LearningApp\LearningApp\bin\Debug\LearningApp.application
+E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.csproj.CoreCompileInputs.cache
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.exe.manifest
 E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.application
+E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.exe
+E:\VSPrograms\LearningApp\LearningApp\obj\Debug\LearningApp.pdb

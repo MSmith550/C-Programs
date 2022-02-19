@@ -23,6 +23,7 @@ namespace LearningApp
         public HeartWords()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
             heartList = System.IO.File.ReadAllLines(heartWordPath);
             shortVowelList = System.IO.File.ReadAllLines(shortVowelPath);
         }

@@ -17,6 +17,7 @@ namespace LearningApp
         public Numbers()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
         }
 
         private void backButton_Click(object sender, EventArgs e)

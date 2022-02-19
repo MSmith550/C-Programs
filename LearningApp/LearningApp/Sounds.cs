@@ -22,6 +22,7 @@ namespace LearningApp
         public Sounds()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
             letterList = System.IO.File.ReadAllLines(letterPath);
             blendList = System.IO.File.ReadAllLines(blendPath);
         }

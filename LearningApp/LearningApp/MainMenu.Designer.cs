@@ -38,6 +38,7 @@
             // 
             // soundButton
             // 
+            this.soundButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.soundButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.soundButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.soundButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -51,6 +52,7 @@
             // 
             // wordButton
             // 
+            this.wordButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.wordButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.wordButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.wordButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -64,6 +66,7 @@
             // 
             // numberButton
             // 
+            this.numberButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.numberButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.numberButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.numberButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -77,6 +80,7 @@
             // 
             // mathButton
             // 
+            this.mathButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.mathButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.mathButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.mathButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -90,6 +94,7 @@
             // 
             // sentenceButton
             // 
+            this.sentenceButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.sentenceButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.sentenceButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.sentenceButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -103,6 +108,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

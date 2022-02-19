@@ -1,0 +1,12 @@
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.HeartWords.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.MainMenu.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.Math.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.Numbers.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.Properties.Resources.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.Sentences.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.Sounds.resources
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.csproj.GenerateResource.cache
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.csproj.CoreCompileInputs.cache
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.exe
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.pdb
+E:\VSPrograms\LearningApp\LearningApp\obj\Release\LearningApp.csprojAssemblyReference.cache

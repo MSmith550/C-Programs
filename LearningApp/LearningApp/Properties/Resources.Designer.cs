@@ -61,6 +61,85 @@ namespace LearningApp.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ship
+        ///Stop
+        ///Shop
+        ///Sink
+        ///Sleep
+        ///Snoop
+        ///Skunk
+        ///Shush
+        ///Slush
+        ///Snow
+        ///Snowman
+        ///Saw
+        ///Seen
+        ///Sunday
+        ///Saturday
+        ///September
+        ///Sleepy
+        ///Sand
+        ///Sandstone
+        ///Sheep
+        ///Squid
+        ///So
+        ///Smoke
+        ///Sword
+        ///Shield
+        ///Steep
+        ///Scroll
+        ///Smell
+        ///Small
+        ///Sounds
+        ///Sentence
+        ///Short
+        ///Almost
+        ///Seven
+        ///Seen
+        ///Seem
+        ///Second
+        ///Sure
+        ///Such
+        ///Story
+        ///Still
+        ///Start
+        ///Stars
+        ///Spell
+        ///South
+        ///Size
+        ///Since
+        ///Sign
+        ///Side
+        ///Against
+        ///Sharp
+        ///Shall
+        ///Shell
+        ///Serveral
+        ///Surface
+        ///Study
+        ///Strong
+        ///State
+        ///Special
+        ///Space
+        ///Sometimes
+        ///Something
+        ///Slowly
+        ///Shown
+        ///Wash
+        ///Street
+        ///Stand
+        ///Sound
+        ///Song
+        ///Six
+        ///Si [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BlendSounds_data {
+            get {
+                return ResourceManager.GetString("BlendSounds_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap LettersScene {
@@ -91,12 +170,274 @@ namespace LearningApp.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to How much is a dime?
+        ///How much is a nickel?
+        ///If sally has 3 apples and ben has 7 aples, How many apples do they have total?
+        ///If you have 10 pencils and give 4 away, how many do you have left?
+        ///If there are 3 birds in a tree and 3 more bird join them, how many birds are in the tree total?
+        ///If you have 10 hearts and take 3 damage, how many hearts do you have left?
+        ///How much is a penny?
+        ///how much is 1 quarter and 2 dimes?
+        ///how much is a quarter?
+        ///If there is 10 apples in a tree and 4 fall down, how many are lef [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string MathWords_data {
+            get {
+                return ResourceManager.GetString("MathWords_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to I like to play games
+        ///I do not like to clean the house
+        ///I like animals
+        ///I do not like daddy
+        ///The weather is rainy
+        ///The weather is not sunny
+        ///I want to watch cartoons
+        ///I do not want to watch movies
+        ///We are going to the store
+        ///We are not going to the store
+        ///I see a bird
+        ///I do not see a bird
+        ///He is tall
+        ///She is tall
+        ///I can press the button
+        ///They are walking down the street
+        ///There are many blue cars
+        ///I like computers
+        ///I like to play house
+        ///We play outside
+        ///I learned math today
+        ///I know some math
+        ///They are buildi [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Sentence_data {
+            get {
+                return ResourceManager.GetString("Sentence_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap SentenceBackground {
             get {
                 object obj = ResourceManager.GetObject("SentenceBackground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to cab
+        ///dab
+        ///gab
+        ///jab 
+        ///lab
+        ///nab
+        ///tab
+        ///blab 
+        ///crab
+        ///grab 
+        ///scab
+        ///stab 
+        ///slab
+        ///bat
+        ///cat
+        ///fat
+        ///hat
+        ///mat
+        ///pat
+        ///rat
+        ///sat
+        ///vat
+        ///brat
+        ///hat
+        ///flat
+        ///gnat
+        ///spat
+        ///bad 
+        ///dad
+        ///had
+        ///lad
+        ///mad
+        ///pad 
+        ///sad
+        ///tad 
+        ///glad
+        ///ban 
+        ///can 
+        ///fan 
+        ///man 
+        ///pan 
+        ///ran
+        ///tan
+        ///van
+        ///clan
+        ///plan
+        ///scan
+        ///than
+        ///bag
+        ///gag
+        ///hag
+        ///lag 
+        ///nag
+        ///rag
+        ///sag
+        ///tag
+        ///wag
+        ///brag
+        ///drag 
+        ///flag
+        ///snag
+        ///stag
+        ///cap
+        ///gap
+        ///lap
+        ///map
+        ///nap
+        ///rap
+        ///sap 
+        ///tap
+        ///yap
+        ///zap
+        ///chap 
+        ///clap
+        ///flap 
+        ///slap
+        ///snap
+        ///trap
+        ///bam
+        ///dam
+        ///ham 
+        ///jam
+        ///ram 
+        ///yam
+        ///bed
+        ///fed
+        ///led
+        ///red
+        ///wed
+        ///bled
+        ///bred 
+        ///fled
+        ///ple [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string ShortVowel_data {
+            get {
+                return ResourceManager.GetString("ShortVowel_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A
+        ///B
+        ///C
+        ///D
+        ///E
+        ///F
+        ///G
+        ///H
+        ///I
+        ///J
+        ///K
+        ///L
+        ///M
+        ///N
+        ///O
+        ///P
+        ///Q
+        ///R
+        ///S
+        ///T
+        ///U
+        ///V
+        ///W
+        ///X
+        ///Y
+        ///Z.
+        /// </summary>
+        internal static string Sounds_data {
+            get {
+                return ResourceManager.GetString("Sounds_data", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The
+        ///My
+        ///Is
+        ///I
+        ///In
+        ///A
+        ///For
+        ///Am
+        ///Here
+        ///At
+        ///It
+        ///Be
+        ///And
+        ///Go
+        ///Like
+        ///To
+        ///Not
+        ///You
+        ///Do
+        ///To
+        ///Can
+        ///Are
+        ///Did
+        ///Will
+        ///With
+        ///Me
+        ///No
+        ///Say
+        ///All
+        ///Was
+        ///So
+        ///Now
+        ///Have
+        ///Come
+        ///They
+        ///This
+        ///Said
+        ///Down
+        ///That
+        ///Ate
+        ///Our
+        ///Where
+        ///Must
+        ///He
+        ///Who
+        ///What
+        ///We
+        ///She
+        ///But
+        ///There
+        ///Own
+        ///Make
+        ///Want 
+        ///Saw
+        ///Please
+        ///Good
+        ///New
+        ///One
+        ///Out
+        ///Two
+        ///Cat 
+        ///Fly
+        ///Ship
+        ///Flower
+        ///Cat
+        ///Bat
+        ///Car
+        ///Sun
+        ///Big 
+        ///Light.
+        /// </summary>
+        internal static string WordList_data {
+            get {
+                return ResourceManager.GetString("WordList_data", resourceCulture);
             }
         }
         

@@ -15,6 +15,7 @@ namespace LearningApp
         public MainMenu()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
         }
 
         private void soundButton_Click(object sender, EventArgs e)

@@ -21,6 +21,7 @@ namespace LearningApp
         public Sentences()
         {
             InitializeComponent();
+            WindowState = FormWindowState.Maximized;
             sentenceList = System.IO.File.ReadAllLines(sentencePath);
         }
 

@@ -36,11 +36,12 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(104, 9);
+            this.label1.Location = new System.Drawing.Point(278, 73);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label1.Size = new System.Drawing.Size(512, 63);
@@ -49,21 +50,23 @@
             // 
             // textBox1
             // 
+            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(100, 104);
+            this.textBox1.Location = new System.Drawing.Point(216, 160);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(495, 63);
+            this.textBox1.Size = new System.Drawing.Size(603, 152);
             this.textBox1.TabIndex = 11;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // newSentenceButton
             // 
+            this.newSentenceButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.newSentenceButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.newSentenceButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.newSentenceButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.newSentenceButton.Location = new System.Drawing.Point(255, 210);
+            this.newSentenceButton.Location = new System.Drawing.Point(427, 361);
             this.newSentenceButton.Name = "newSentenceButton";
             this.newSentenceButton.Size = new System.Drawing.Size(174, 92);
             this.newSentenceButton.TabIndex = 12;
@@ -73,10 +76,11 @@
             // 
             // backButton
             // 
+            this.backButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.backButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.backButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.backButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backButton.Location = new System.Drawing.Point(176, 350);
+            this.backButton.Location = new System.Drawing.Point(348, 501);
             this.backButton.Name = "backButton";
             this.backButton.Size = new System.Drawing.Size(336, 35);
             this.backButton.TabIndex = 13;
@@ -90,7 +94,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::LearningApp.Properties.Resources.SentenceBackground;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(743, 450);
+            this.ClientSize = new System.Drawing.Size(1087, 753);
             this.Controls.Add(this.backButton);
             this.Controls.Add(this.newSentenceButton);
             this.Controls.Add(this.textBox1);
